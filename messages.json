@@ -89,5 +89,18 @@
     "Compact: fit more messages on screen at one time. #IRC": "مضغوط: يعرض المزيد من الرسائل على الشاشة في وقت واحد.",
     "Show avatars in Compact mode": "إظهار الصور الشخصية في وضع العرض المضغوط",  
     "Failed to View Message": "فشل في عرض الرسالة",
+    "When posted as links to chat": "عند الإرسال كروابط إلى الدردشة",
+    "When uploaded directly to Discord": "عند الرفع مباشرة إلى ديسكورد",
+    "With image descriptions": "مع أوصاف الصور",
+    "Show embeds and preview website links pasted into chat": "عرض المضمّنات ومعاينة الروابط المرسلة في الدردشة",
+    "Show emoji reactions on messages": "عرض ردود الفعل على الرسائل",
+    "Automatically convert emoticons in your messages to emojis": "تحويل الرموز التعبيرية تلقائيًا إلى الرموز",
+    "Sticker Suggestions": "اقتراحات الملصقات",
+    "Stickers in Autocomplete": "الملصقات في الإكمال التلقائي",
+    "Preview emojis, mentions and markdown syntax as you type": "معاينة الرموز التعبيرية والإشارات وصيغة Markdown أثناء الكتابة",
+    "Open threads in split view": "فتح المواضيع في عرض منفصل",
+    "On click": "عند النقر",
+    "On servers I moderate": "على الخوادم التي أعتدل فيها",
+    "Always": "دائمًا",
     "Message Viewed": "تم عرض الرسالة"
 }
