@@ -80,6 +80,17 @@
     "This setting is applied when you join a new server.": "يتم تطبيق هذا الإعداد عند الانضمام إلى خادم جديد.",
     "Allow access to age-restricted servers on iOS": "السماح بالوصول إلى الخوادم المقيدة بالعمر على iOS",
     "View your servers for people 18+ on iOS devices.": "عرض الخوادم للأشخاص 18+ على أجهزة iOS.",
+    "How we use your data": "كيف نستخدم بياناتك",
+    "Use data to improve Discord": "استخدام البيانات لتحسين Discord",
+    "This setting allows us to use and process your information to understand and improve our services.": "يتيح لنا هذا الإعداد استخدام بياناتك لفهم وتحسين خدماتنا.",
+    "Use data to personalise my Discord experience": "استخدام البيانات لتخصيص تجربتي في Discord",
+    "This setting allows us to use information, such as who you talk to and what games you play, to personalise Discord for you.": "يتيح لنا هذا الإعداد استخدام البيانات لتخصيص تجربتك في Discord.",
+    "In-game rewards (aka Quests)": "مكافآت داخل اللعبة (المعروفة باسم Quests)",
+    "Use your Discord activity, such as the games you play, to show you Quests and other rewards.": "استخدام نشاط Discord الخاص بك لإظهار المهام والمكافآت الأخرى.",
+    "Use data to make Discord work": "استخدام البيانات لتشغيل Discord",
+    "We need to store and process some data in order to offer you the basic Discord service.": "نحتاج إلى تخزين ومعالجة بعض البيانات لتقديم الخدمة الأساسية في Discord.",
+    "Request all of my data": "طلب جميع بياناتي",
+    "Request Data": "طلب البيانات",  
     "Enable message requests from server members you may not know": "تمكين طلبات الرسائل من أعضاء الخادم الذين قد لا تعرفهم",
     "Allow access to age-restricted commands from apps in Direct Messages": "السماح بالوصول إلى الأوامر المقيدة بالعمر في التطبيقات من خلال الرسائل المباشرة"  
 }
