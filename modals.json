@@ -80,5 +80,18 @@
     "Please confirm your action": "يرجى تأكيد الإجراء",
     "Action Required Confirmation": "تأكيد الإجراء المطلوب",
     "Failed to Process": "فشل في المعالجة",
-    "Please retry": "يرجى إعادة المحاولة"
+    "Please retry": "يرجى إعادة المحاولة",
+    "Call": "اتصال",
+    "Add Note": "إضافة ملاحظة",
+    "Add Friend Nickname": "إضافة لقب للصديق",
+    "Invite to Server": "دعوة إلى الخادم",
+    "Remove Friend": "إزالة الصديق",
+    "Block": "حظر",
+    "Report User Profile": "الإبلاغ عن الملف الشخصي",
+    "Forward": "إعادة التوجيه",
+    "Mark Unread": "تحديد كغير مقروء",
+    "Speak Message": "نطق الرسالة",
+    "Copy User ID": "نسخ معرف المستخدم",
+    "Copy Channel ID": "نسخ معرف القناة",
+    "Copy Message ID": "نسخ معرف الرسالة"
 }
