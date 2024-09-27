@@ -84,6 +84,10 @@
     "Message Visibility": "ظهور الرسائل",
     "Show Messages": "عرض الرسائل",
     "Hide Messages": "إخفاء الرسائل",
+    "Message Display": "عرض الرسائل",
+    "Cosy: modern, beautiful and easy on the eye.": "مريح: حديث، جميل وسهل على العين.",
+    "Compact: fit more messages on screen at one time. #IRC": "مضغوط: يعرض المزيد من الرسائل على الشاشة في وقت واحد.",
+    "Show avatars in Compact mode": "إظهار الصور الشخصية في وضع العرض المضغوط",  
     "Failed to View Message": "فشل في عرض الرسالة",
     "Message Viewed": "تم عرض الرسالة"
 }
