@@ -70,5 +70,16 @@
     "Start Video": "بدء الفيديو",
     "Stop Video": "إيقاف الفيديو",
     "Failed to Start Video": "فشل في بدء الفيديو",
-    "Failed to Stop Video": "فشل في إيقاف الفيديو"
+    "Failed to Stop Video": "فشل في إيقاف الفيديو",
+    "Input Mode": "وضع الإدخال",
+    "Push-to-talk": "اضغط للتحدث",
+    "Automatically determine input sensitivity": "تحديد حساسية الإدخال تلقائيًا",
+    "If the indicator is solid green then Discord is transmitting your beautiful voice.": "إذا كانت المؤشر أخضر ثابت، فإن Discord ينقل صوتك الجميل.",
+    "Soundboard": "لوحة الأصوات",
+    "Soundboard Volume": "حجم لوحة الأصوات",
+    "Control how loud sounds are for you personally. For more info, click here.": "تحكم في مدى ارتفاع الأصوات بالنسبة لك شخصيًا. للمزيد من المعلومات، انقر هنا.",
+    "Entrance Sounds": "أصوات الدخول",
+    "Choose a Soundboard sound to automatically play whenever you join a voice channel. Right-click on a voice channel to join without playing your entrance sound.": "اختر صوتًا من لوحة الأصوات للتشغيل التلقائي عند الانضمام إلى قناة صوتية. انقر بزر الماوس الأيمن على قناة صوتية للانضمام دون تشغيل صوت الدخول الخاص بك.",
+    "CHOOSE A SERVER": "اختر خادم",
+    "CHOOSE A SOUND": "اختر صوت"  
 }
