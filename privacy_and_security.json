@@ -60,5 +60,11 @@
     "Disable Privacy Options": "تعطيل خيارات الخصوصية",
     "Report User": "الإبلاغ عن المستخدم",
     "User Reported": "تم الإبلاغ عن المستخدم",
-    "Activity Privacy": "خصوصية النشاط"
+    "Activity Privacy": "خصوصية النشاط",
+    "View Backup Codes": "عرض رموز النسخ الاحتياطي",
+    "Remove Authenticator App": "إزالة تطبيق المصادقة",
+    "Enable SMS Authentication": "تمكين مصادقة الرسائل القصيرة",
+    "Change Phone Number?": "تغيير رقم الهاتف؟",
+    "Register a Security Key": "تسجيل مفتاح الأمان",
+    "Disable Account": "تعطيل الحساب"  
 }
