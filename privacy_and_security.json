@@ -66,5 +66,20 @@
     "Enable SMS Authentication": "تمكين مصادقة الرسائل القصيرة",
     "Change Phone Number?": "تغيير رقم الهاتف؟",
     "Register a Security Key": "تسجيل مفتاح الأمان",
-    "Disable Account": "تعطيل الحساب"  
+    "Disable Account": "تعطيل الحساب",
+    "DM Spam Filter": "مرشح البريد العشوائي في الرسائل المباشرة",
+    "Automatically send direct messages that may contain spam into a separate spam inbox.": "قم بإرسال الرسائل المباشرة التي قد تحتوي على بريد عشوائي إلى صندوق منفصل.",
+    "Filter all direct messages": "تصفية جميع الرسائل المباشرة",
+    "All direct messages will be filtered for spam.": "جميع الرسائل المباشرة سيتم تصفيتها من البريد العشوائي.",
+    "Filter direct messages from non-friends": "تصفية الرسائل المباشرة من غير الأصدقاء",
+    "Direct messages from non-friends will be filtered for spam.": "سيتم تصفية الرسائل المباشرة من غير الأصدقاء للبريد العشوائي.",
+    "Do not filter direct messages": "عدم تصفية الرسائل المباشرة",
+    "Direct messages will not be filtered for spam.": "الرسائل المباشرة لن يتم تصفيتها للبريد العشوائي.",
+    "Server Privacy Defaults": "إعدادات الخصوصية للخادم",
+    "Allow direct messages from server members": "السماح بالرسائل المباشرة من أعضاء الخادم",
+    "This setting is applied when you join a new server.": "يتم تطبيق هذا الإعداد عند الانضمام إلى خادم جديد.",
+    "Allow access to age-restricted servers on iOS": "السماح بالوصول إلى الخوادم المقيدة بالعمر على iOS",
+    "View your servers for people 18+ on iOS devices.": "عرض الخوادم للأشخاص 18+ على أجهزة iOS.",
+    "Enable message requests from server members you may not know": "تمكين طلبات الرسائل من أعضاء الخادم الذين قد لا تعرفهم",
+    "Allow access to age-restricted commands from apps in Direct Messages": "السماح بالوصول إلى الأوامر المقيدة بالعمر في التطبيقات من خلال الرسائل المباشرة"  
 }
