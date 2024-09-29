@@ -34,6 +34,8 @@
     "Failed to Leave Voice Channel": "فشل في مغادرة قناة الصوت",
     "Failed to Mute Microphone": "فشل في كتم الميكروفون",
     "Failed to Unmute Microphone": "فشل في إلغاء كتم الميكروفون",
+    "Turn On Microphone": "قم بتشغيل الميكروفون",
+    "Turn Off Microphone": "إيقاف تشغيل الميكروفون",
     "Failed to Deafen": "فشل في الإسكات",
     "Failed to Undeafen": "فشل في إلغاء الإسكات",
     "Failed to Enable Microphone": "فشل في تفعيل الميكروفون",
