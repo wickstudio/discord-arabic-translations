@@ -63,6 +63,7 @@
     "Send File Message": "إرسال رسالة ملف",
     "Attach File": "إرفاق ملف",
     "Remove Attachment": "إزالة المرفق",
+    "Are you sure you want to delete this message?": "هل انت متاكد بان تريد حذف هذه الرسالة؟",
     "View Attachments": "عرض المرفقات",
     "Message with Attachment": "رسالة مع مرفق",
     "Failed to Attach File": "فشل في إرفاق الملف",
